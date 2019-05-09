@@ -6,6 +6,7 @@ Credits to JRod for https://www.gta5-mods.com/maps/forests-of-senora-add-on-ymap
 
 INSTALLATION:
 
+- Clone the github
 - Choose your tree type
 - Choose the ratio of trees
 - Go to your \cfx-server-data-master\resources\ folder
